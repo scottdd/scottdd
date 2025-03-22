@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scottdd
 - 👀 I’m interested in life, the universe, and everything.
-- 🌱 I’m currently learning to use Ionic framework to develop mobile apps
+- 🌱 I’m currently learning to appreciate the little things in life.
 - 📫 I may post contact info later. Right now, I'm just getting familiar with the surroundings.
 
 <!---
